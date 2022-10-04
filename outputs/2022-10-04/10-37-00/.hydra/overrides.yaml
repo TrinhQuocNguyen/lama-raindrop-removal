@@ -1,0 +1,3 @@
+- model.path=./big-lama
+- indir=./raindrop/input_and_mask
+- outdir=./raindrop/output

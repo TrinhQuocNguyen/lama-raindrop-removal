@@ -1,0 +1,3 @@
+- model.path=/mnt/AIProjects/trinh/Projects/lama-raindrop-removal/big-lama
+- indir=/mnt/AIProjects/trinh/Projects/lama-raindrop-removal/raindrop/input_and_mask
+- outdir=/mnt/AIProjects/trinh/Projects/lama-raindrop-removal/raindrop/output
